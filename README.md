@@ -20,15 +20,25 @@ Déploiement de l'application sur le serveur Tomcat :
 Fonctionnalités présentes :
 
 Session
+
 Contexte
+
 Local Port
+
 Local addr.
+
 Remote Port
+
 Protocol
+
 Remote User
+
 Server name
+
 Reader
+
 AuthType
+
 Session
 
 Technologies :
