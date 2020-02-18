@@ -3,7 +3,7 @@
 Installer TomcatServer 9.0 : http://objis.com/tutoriel-tomcat-n1-installation-tomcat-8/
 
 Generation du fichier WAR :
-A la racine du dossier où se trouve le dossier target executer la commande suivante :
+A la racine du projet, où se trouve le dossier target executer la commande suivante :
 
 $ mvn package
 
@@ -43,9 +43,6 @@ Session
 
 Technologies :
 
-Servlet
-HTML
-JSP
-Bootstrap
+Servlet, HTML, JSP, Bootstrap
 
 
