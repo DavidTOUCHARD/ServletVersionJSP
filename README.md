@@ -11,11 +11,11 @@ Une fois que l'invite de commande affiche "BUILD SUCCESS", vous pouvez aller dan
 
 Déploiement de l'application sur le serveur Tomcat : 
 
-1-Deplacer le fichier TestServletV3.war dans le dossier webapp de Tomcat 
+1-Deplacer le fichier TestServletV1.war dans le dossier webapp de Tomcat (Le fichier .war peut etre renomé)
 
 2-Executer startup.bat situé dans le dossier bin de tomcat 
 
-3-Dans l'url du navigateur internet, entrer la commande suivante : http://localhost:8080/TestServletV3/PremierServlet
+3-Dans l'url du navigateur internet, entrer la commande suivante : http://localhost:8080/TestServletV1/PremierServlet (TestServletV1 étant le nom du fichier WAR déplacé dans le dossier webapp)
 
 Fonctionnalités présentes :
 
